@@ -1,2 +1,2 @@
 # Diabetes-Prediction
-This is Diabetes Prediction project using Machine Learning
+This is a Diabetes Prediction project using Machine Learning
